@@ -1,1 +1,1 @@
-Lib esp32 audio from KWS project
+I2C, ADC Lib audio from KWS project 
